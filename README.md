@@ -10,6 +10,8 @@ To request that we add a token to the list, please do the following steps:
 
 ### Disclaimer
 
-This repo is open sourced and managed by the Boba community. Anyone can submit new tokens to this repository.  
-Tokens being lsited here does NOT mean that Oolongswap team is in partnership with these projects.  
-Oolongswap team does not guarantee the legitimacy of tokens added here and we don't endorese any community tokens.  
+This token repository is open sourced and managed by the Boba community. Anyone can submit new tokens to this repository.  
+
+Listing tokens in this repo does NOT mean partnership with OolongSwap.
+
+OolongSwap team does not guarantee the quality of code of the tokens added here and we do not endorese any projects directly.  
