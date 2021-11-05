@@ -14,5 +14,13 @@
     "decimals": 9,
     "chainId": 288,
     "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c/logo.png"
+  },
+  {
+    "name": "BobaShiba",
+    "address": "0x4Db8A990Fe714F4cBcb01F475D2D803170b4d3a1",
+    "symbol": "BShib",
+    "decimals": 18,
+    "chainId": 288,
+    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x4Db8A990Fe714F4cBcb01F475D2D803170b4d3a1/logo.png"
   }
 ]
