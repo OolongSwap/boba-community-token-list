@@ -12,9 +12,9 @@ To request that we add a token to the list, please do the following steps:
 1. Submit a pull request to add your token logo to the [token-logos](https://github.com/OolongSwap/token-logos) repo. 
 2. Fork and Submit a pull request to this repo to add your token information in the [boba.json](https://github.com/OolongSwap/boba-community-token-list/blob/main/src/tokens/boba.json) file.
 3. For each pull request, please add the following project information in the comment section of the PR: 
-   - [ ] Contract Addresses
+   - [ ] Contract addresses
    - [ ] Social media links
-   - [ ] Official Website
+   - [ ] Official website
 
 
 ### Disclaimer
