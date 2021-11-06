@@ -14,5 +14,13 @@
     "decimals": 9,
     "chainId": 288,
     "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c/logo.png"
+  },
+  {
+    "name": "MiniBoba",
+    "address": "0x82c646E9d9833beF72cC38299db8c04613409602",
+    "symbol": "MiniBoba",
+    "decimals": 9,
+    "chainId": 288,
+    "logoURI": "https://raw.githubusercontent.com/scullydev/token-logos/main/288/0x82c646E9d9833beF72cC38299db8c04613409602/logo.png"
   }
 ]
