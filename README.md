@@ -17,7 +17,7 @@ To request that we add a token to the list, please do the following steps:
    - [ ] Official website
 
 
-### Disclaimer
+## Disclaimer
 
 This token repository is open sourced and managed by the Boba community. Anyone can submit new tokens to this repository.  
 
