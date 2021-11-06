@@ -6,7 +6,7 @@ This NPM module and GitHub repo contains the Boba community token list used in t
 
 To request that we add a token to the list, please do the following steps:
 1. Submit a pull request to add your token logo to the [token-logos](https://github.com/OolongSwap/token-logos) repo. 
-2. Submit a pull request to this repo to add your token information in the [boba.json](https://github.com/OolongSwap/boba-community-token-list/blob/main/src/tokens/boba.json) file. 
+2. Fork and Submit a pull request to this repo to add your token information in the [boba.json](https://github.com/OolongSwap/boba-community-token-list/blob/main/src/tokens/boba.json) file. 
 
 ### Disclaimer
 
