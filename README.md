@@ -4,12 +4,13 @@ This NPM module and GitHub repo contains the Boba community token list used in t
 
 ## How to add a token
 ### Requirements
-The projects should have sufficient available information an liquidity:
-1. The project should have website and twitter.
+
+1. The project must be at least 5 days old. (after mainnet launch)
 2. The token should have at least __$50,000__ of liquidity on [OolongSwap](https://oolongswap.com/) (check stats on [Analytics](https://info.oolongswap.com/#/tokens))
-3. Must have the following project information.
-   - [ ] Contract addresses
-   - [ ] Social media links
+3. Contracts are verified in explorer.
+4. Must have the following project information.
+   - [ ] Contract addresses 
+   - [ ] Social media links (e.g twitter)
    - [ ] Official website
 
 ### Adding an new token logo
