@@ -1,6 +1,6 @@
 {
   "name": "Boba Community TL",
-  "timestamp": "2021-11-04T15:39:40.872Z",
+  "timestamp": "2021-11-10T13:16:28.731Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -21,14 +21,6 @@
       "decimals": 18,
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x121636C43E96D97AB00B6c6994cDDEBEf27dE1C7/logo.png"
-    },
-    {
-      "name": "BobaDoge",
-      "address": "0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c",
-      "symbol": "BobaDoge",
-      "decimals": 9,
-      "chainId": 288,
-      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c/logo.png"
     }
   ]
 }
