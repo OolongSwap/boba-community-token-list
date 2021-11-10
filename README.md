@@ -7,6 +7,10 @@ This NPM module and GitHub repo contains the Boba community token list used in t
 The projects should have sufficient available information an liquidity:
 1. The project should have website and twitter.
 2. The token should have at least __$50,000__ of liquidity on [OolongSwap](https://oolongswap.com/) (check stats on [Analytics](https://info.oolongswap.com/#/tokens))
+3. Must have the following project information.
+   - [ ] Contract addresses
+   - [ ] Social media links
+   - [ ] Official website
 
 ### Adding an new token logo
 Steps to add token to community token list:
