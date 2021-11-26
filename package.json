@@ -1,19 +1,19 @@
 {
-  "name": "@oolongswap/oolongswap-token-list",
-  "version": "1.0.0",
-  "description": "The Oolongswap default token list",
-  "main": "build/oolongswap.tokenlist.json",
+  "name": "@oolongswap/boba-community-token-list",
+  "version": "1.0.1",
+  "description": "The Boba community token list",
+  "main": "build/boba.tokenlist.json",
   "scripts": {
     "test": "mocha",
     "build": "rimraf build && mkdir -p build && node src/write.js > build/boba.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/oolongswap.tokenlist.json"
+    "build/boba.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OolongSwap/oolongswap-token-list.git"
+    "url": "git+https://github.com/OolongSwap/boba-community-token-list.git"
   },
   "keywords": [
     "oolongswap",
@@ -24,9 +24,9 @@
   "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/OolongSwap/oolongswap-token-list/issues"
+    "url": "https://github.com/OolongSwap/boba-community-token-list/issues"
   },
-  "homepage": "https://github.com/OolongSwap/oolongswap-token-list#readme",
+  "homepage": "https://github.com/OolongSwap/boba-community-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",
