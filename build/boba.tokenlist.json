@@ -1,6 +1,6 @@
 {
   "name": "Boba Community TL",
-  "timestamp": "2021-11-10T13:16:28.731Z",
+  "timestamp": "2021-11-26T21:27:39.124Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -21,6 +21,14 @@
       "decimals": 18,
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x121636C43E96D97AB00B6c6994cDDEBEf27dE1C7/logo.png"
+    },
+    {
+      "name": "BobaTeaInu",
+      "address": "0x9c3a582A678BE0B0E954d7a5C07b0C7Eb8EF1e03",
+      "symbol": "BTEA",
+      "decimals": 9,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x9c3a582A678BE0B0E954d7a5C07b0C7Eb8EF1e03/logo.png"
     }
   ]
 }
