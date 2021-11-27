@@ -16,7 +16,7 @@ the projects have to be sound, with information available, and __non-minimal cir
    - [ ] Official website
 
 ### Adding an new token logo
-Steps to add token to community token list:
+Steps to add tokens to community token list:
 1. Submit a pull request to add your token logo to the [token-logos](https://github.com/OolongSwap/token-logos) repo. 
 2. Fork this repo to add your token information in the [boba.json](https://github.com/OolongSwap/boba-community-token-list/blob/main/src/tokens/boba.json) file.
 3. Run test __yarn test__ to validate the list.
