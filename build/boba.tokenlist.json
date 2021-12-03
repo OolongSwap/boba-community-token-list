@@ -1,10 +1,10 @@
 {
   "name": "Boba Community TL",
-  "timestamp": "2021-11-27T13:03:28.160Z",
+  "timestamp": "2021-12-03T15:15:26.497Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7/logo.png",
@@ -21,6 +21,14 @@
       "decimals": 18,
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x121636C43E96D97AB00B6c6994cDDEBEf27dE1C7/logo.png"
+    },
+    {
+      "name": "BoringDAO",
+      "address": "0x017Ff87AB312301aDE54f7cf9Cc5AEA28C9De024",
+      "symbol": "BORING",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x017Ff87AB312301aDE54f7cf9Cc5AEA28C9De024/logo.png"
     },
     {
       "name": "BobaTeaInu",
