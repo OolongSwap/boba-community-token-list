@@ -1,8 +1,8 @@
 {
   "name": "Boba Community TL",
-  "timestamp": "2021-12-06T11:13:49.645Z",
+  "timestamp": "2021-12-21T23:34:17.627Z",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   },
@@ -14,6 +14,14 @@
     "community"
   ],
   "tokens": [
+    {
+      "name": "AlphaCyber",
+      "address": "0x641e3C61DBFc5C9eD8f620eb474271cd4439f7d5",
+      "symbol": "aCYBER",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x641e3C61DBFc5C9eD8f620eb474271cd4439f7d5/logo.png"
+    },
     {
       "name": "BobaDoge",
       "address": "0x121636C43E96D97AB00B6c6994cDDEBEf27dE1C7",
