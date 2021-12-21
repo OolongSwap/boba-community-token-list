@@ -22,5 +22,13 @@
     "decimals": 18,
     "chainId": 288,
     "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x017Ff87AB312301aDE54f7cf9Cc5AEA28C9De024/logo.png"
+  },
+  {
+    "name": "AlphaCyber",
+    "address": "0x641e3C61DBFc5C9eD8f620eb474271cd4439f7d5",
+    "symbol": "aCYBER",
+    "decimals": 18,
+    "chainId": 288,
+    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x641e3C61DBFc5C9eD8f620eb474271cd4439f7d5/logo.png"
   }
 ]
