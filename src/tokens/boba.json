@@ -38,5 +38,14 @@
     "decimals": 18,
     "chainId": 288,
     "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xc67b9B1B0557aeAfA10AA1fFa1d7c87087a6149E/logo.png"
+  },
+  {
+    "name": "Zencha",
+    "address": "0x7445Efc8A6F1279434133408BEdeb6Eb4d1537Ab",
+    "symbol": "ZENC",
+    "decimals": 18,
+    "chainId": 288,
+    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x7445Efc8A6F1279434133408BEdeb6Eb4d1537Ab/logo.png"
   }
+
 ]
