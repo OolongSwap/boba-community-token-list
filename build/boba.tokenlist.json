@@ -1,8 +1,8 @@
 {
   "name": "Boba Community TL",
-  "timestamp": "2022-01-13T00:30:59.220Z",
+  "timestamp": "2022-02-04T14:24:58.150Z",
   "version": {
-    "major": 6,
+    "major": 7,
     "minor": 0,
     "patch": 0
   },
@@ -53,6 +53,14 @@
       "decimals": 9,
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x9c3a582A678BE0B0E954d7a5C07b0C7Eb8EF1e03/logo.png"
+    },
+    {
+      "name": "Boba WAGMI v0 Option",
+      "address": "0x8493C4d9Cd1a79be0523791E3331c78Abb3f9672",
+      "symbol": "WAGMIV0",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x8493C4d9Cd1a79be0523791E3331c78Abb3f9672/logo.png"
     },
     {
       "name": "Zencha",
