@@ -54,5 +54,13 @@
     "decimals": 18,
     "chainId": 288,
     "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x8493C4d9Cd1a79be0523791E3331c78Abb3f9672/logo.png"
+  },
+  {
+    "name": "Boba WAGMI v1 Option",
+    "address": "0xCe055Ea4f29fFB8bf35E852522B96aB67Cbe8197",
+    "symbol": "WAGMIV1",
+    "decimals": 18,
+    "chainId": 288,
+    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xCe055Ea4f29fFB8bf35E852522B96aB67Cbe8197/logo.png"
   }
 ]
