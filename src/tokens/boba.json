@@ -62,5 +62,13 @@
     "decimals": 18,
     "chainId": 288,
     "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xCe055Ea4f29fFB8bf35E852522B96aB67Cbe8197/logo.png"
+  },
+  {
+    "name": "Brewery",
+    "address": "0x91dED49c35642dAb13C3bAdABa1AE7b6DD59c90f",
+    "symbol": "BRE",
+    "decimals": 18,
+    "chainId": 288,
+    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x91dED49c35642dAb13C3bAdABa1AE7b6DD59c90f/logo.png"
   }
 ]
