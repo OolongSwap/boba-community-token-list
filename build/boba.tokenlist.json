@@ -1,8 +1,8 @@
 {
   "name": "Boba Community TL",
-  "timestamp": "2022-03-02T12:59:42.441Z",
+  "timestamp": "2022-03-17T19:11:22.774Z",
   "version": {
-    "major": 8,
+    "major": 9,
     "minor": 0,
     "patch": 0
   },
@@ -45,6 +45,14 @@
       "decimals": 18,
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x017Ff87AB312301aDE54f7cf9Cc5AEA28C9De024/logo.png"
+    },
+    {
+      "name": "Brewery",
+      "address": "0x91dED49c35642dAb13C3bAdABa1AE7b6DD59c90f",
+      "symbol": "BRE",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x91dED49c35642dAb13C3bAdABa1AE7b6DD59c90f/logo.png"
     },
     {
       "name": "BobaTeaInu",
