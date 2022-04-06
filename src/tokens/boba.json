@@ -64,6 +64,14 @@
     "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xCe055Ea4f29fFB8bf35E852522B96aB67Cbe8197/logo.png"
   },
   {
+    "name": "Shibui",
+    "address": "0xF08AD7C3f6b1c6843ba027AD54Ed8DDB6D71169b",
+    "symbol": "🌊",
+    "decimals": 18,
+    "chainId": 288,
+    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xF08AD7C3f6b1c6843ba027AD54Ed8DDB6D71169b/logo.png"
+  },
+  {
     "name": "Brewery",
     "address": "0x3A93bD0fA10050d206370eeA53276542A105C885",
     "symbol": "BRE",
