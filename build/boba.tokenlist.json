@@ -1,8 +1,8 @@
 {
   "name": "Boba Community TL",
-  "timestamp": "2022-04-02T20:52:09.904Z",
+  "timestamp": "2022-04-06T23:43:43.732Z",
   "version": {
-    "major": 11,
+    "major": 12,
     "minor": 0,
     "patch": 0
   },
@@ -61,6 +61,14 @@
       "decimals": 9,
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x9c3a582A678BE0B0E954d7a5C07b0C7Eb8EF1e03/logo.png"
+    },
+    {
+      "name": "Shibui",
+      "address": "0xF08AD7C3f6b1c6843ba027AD54Ed8DDB6D71169b",
+      "symbol": "SHIBUI",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xF08AD7C3f6b1c6843ba027AD54Ed8DDB6D71169b/logo.png"
     },
     {
       "name": "Boba WAGMI v0 Option",
