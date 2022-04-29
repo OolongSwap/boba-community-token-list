@@ -1,8 +1,8 @@
 {
   "name": "Boba Community TL",
-  "timestamp": "2022-04-06T23:43:43.732Z",
+  "timestamp": "2022-04-29T19:48:03.449Z",
   "version": {
-    "major": 12,
+    "major": 13,
     "minor": 0,
     "patch": 0
   },
@@ -61,6 +61,14 @@
       "decimals": 9,
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x9c3a582A678BE0B0E954d7a5C07b0C7Eb8EF1e03/logo.png"
+    },
+    {
+      "name": "Governance OHM",
+      "address": "0xd22C0a4Af486C7FA08e282E9eB5f30F9AaA62C95",
+      "symbol": "gOHM",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xd22C0a4Af486C7FA08e282E9eB5f30F9AaA62C95/logo.png"
     },
     {
       "name": "Shibui",
