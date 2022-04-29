@@ -86,5 +86,13 @@
     "decimals": 18,
     "chainId": 288,
     "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x49a3e4a1284829160f95eE785a1A5FfE2DD5Eb1D/logo.png"
+  },
+  {
+    "name": "Governance OHM",
+    "address": "0xd22C0a4Af486C7FA08e282E9eB5f30F9AaA62C95",
+    "symbol": "gOHM",
+    "decimals": 18,
+    "chainId": 288,
+    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xd22C0a4Af486C7FA08e282E9eB5f30F9AaA62C95/logo.png"
   }
 ]
