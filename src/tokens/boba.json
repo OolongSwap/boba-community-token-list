@@ -8,6 +8,14 @@
     "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x121636C43E96D97AB00B6c6994cDDEBEf27dE1C7/logo.png"
   },
   {
+    "name": "UniDex",
+    "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+    "symbol": "UNIDX",
+    "decimals": 18,
+    "chainId": 288,
+    "logoURI": "https://assets.coingecko.com/coins/images/13178/small/unidx.png?1634888975"
+  },
+  {
     "name": "BobaTeaInu",
     "address": "0x9c3a582A678BE0B0E954d7a5C07b0C7Eb8EF1e03",
     "symbol": "BTEA",
