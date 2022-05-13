@@ -1,8 +1,8 @@
 {
   "name": "Boba Community TL",
-  "timestamp": "2022-05-03T23:20:14.926Z",
+  "timestamp": "2022-05-13T20:20:48.849Z",
   "version": {
-    "major": 14,
+    "major": 15,
     "minor": 0,
     "patch": 0
   },
@@ -85,6 +85,14 @@
       "decimals": 18,
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xF08AD7C3f6b1c6843ba027AD54Ed8DDB6D71169b/logo.png"
+    },
+    {
+      "name": "UniDex",
+      "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+      "symbol": "UNIDX",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x375488F097176507e39B9653b88FDc52cDE736Bf/logo.png"
     },
     {
       "name": "Boba WAGMI v0 Option",

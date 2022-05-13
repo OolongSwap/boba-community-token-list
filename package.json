@@ -1,6 +1,6 @@
 {
   "name": "@oolongswap/boba-community-token-list",
-  "version": "14.0.0",
+  "version": "15.0.0",
   "description": "The Boba community token list",
   "main": "build/boba.tokenlist.json",
   "scripts": {
