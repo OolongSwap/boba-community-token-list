@@ -110,7 +110,7 @@
     "decimals": 18,
     "chainId": 288,
     "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x70bf3c5B5d80C4Fece8Bde0fCe7ef38B688463d4/logo.png"
-  },  
+  },
   {
     "name": "Boba WAGMI v3 Option",
     "address": "0xC6158B1989f89977bcc3150fC1F2eB2260F6cabE",
@@ -118,5 +118,13 @@
     "decimals": 18,
     "chainId": 288,
     "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xC6158B1989f89977bcc3150fC1F2eB2260F6cabE/logo.png"
+  },
+  {
+    "name": "Kōyō Token",
+    "address": "0x2F11899C848Ac0251D1F168cB658a44Eef97F2EA",
+    "symbol": "KYO",
+    "decimals": 18,
+    "chainId": 288,
+    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x2F11899C848Ac0251D1F168cB658a44Eef97F2EA/logo.png"
   }
 ]
