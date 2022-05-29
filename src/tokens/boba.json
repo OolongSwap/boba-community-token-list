@@ -121,10 +121,10 @@
   },
   {
     "name": "Kōyō Token",
-    "address": "0x2F11899C848Ac0251D1F168cB658a44Eef97F2EA",
+    "address": "0x618CC6549ddf12de637d46CDDadaFC0C2951131C",
     "symbol": "KYO",
     "decimals": 18,
     "chainId": 288,
-    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x2F11899C848Ac0251D1F168cB658a44Eef97F2EA/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x618CC6549ddf12de637d46CDDadaFC0C2951131C/logo.png"
   }
 ]
