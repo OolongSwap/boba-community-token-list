@@ -1,0 +1,38 @@
+{
+  "name": "@oolongswap/boba-community-token-list",
+  "version": "16.0.0",
+  "description": "The Boba community token list",
+  "main": "build/boba.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/boba.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/boba.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OolongSwap/boba-community-token-list.git"
+  },
+  "keywords": [
+    "oolongswap",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "Moody Salem",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/OolongSwap/boba-community-token-list/issues"
+  },
+  "homepage": "https://github.com/OolongSwap/boba-community-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.8",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  }
+}
